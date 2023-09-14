@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernanda+Molina;Eu+tenho+20+anos+;E+moro+em+SP;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fefamolina&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jacson Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefamolina&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fefamolina&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=00bfbf&text_color=DA70D6&bg_color=D8BFD8" alt="Fernanda Molina github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefamolina&layout=compact&hide_border=true&title_color=DA70D6&text_color=D8BFD8&bg_color=0d1117" />
 </div>
 
 ### Main skills:
