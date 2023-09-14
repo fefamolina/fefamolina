@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, meu nome é Fernanda Molina 👋
 
 - 🔭 Trabalho com Desenvolvimento de sistemas Full-Stack 
 - 🌱 Estudando Engenharia de Computação 
