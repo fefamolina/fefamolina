@@ -25,7 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=purple&labelColor=0D1117)&nbsp; 
-![GIT](<img align="center" alt="Fefa-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">)&nbsp; 
+![GIT](https://img.shields.io/badge/-gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp; 
   
 
 ### Contacts:
