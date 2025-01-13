@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Fernanda+Molina;tenho+20+anos+;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fefamolina&show_icons=true&count_private=true&hide_border=true&title_color=D8BFD8&icon_color=FFE4E1&text_color=FFE4E1&bg_color=0d1117" alt="Fernanda Molina github stats" /> 
